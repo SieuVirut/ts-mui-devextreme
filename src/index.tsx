@@ -5,7 +5,7 @@ import App from './components/App';
 import { BrowserRouter } from 'react-router-dom';
 // import 'devextreme/dist/css/dx.light.css';
 import './styles/css/dx.material.blue.light.css'
-
+import './styles/scss/index.scss'
 
 ReactDOM.render(
   <React.StrictMode>
